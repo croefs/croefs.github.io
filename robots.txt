@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://croefs.github.io/jiP/sitemap.jiP.gz
